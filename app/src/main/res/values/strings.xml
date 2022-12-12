@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyReminder</string>
+    <string name="titleText">My Reminds</string>
+    <string name="addRemindBtn">Add Remind</string>
+    <string name="addRemindText">What wanna be remind?</string>
+    <string name="setTimeBtn">SET TIME</string>
+    <string name="setDateBtn">SET DATE</string>
+    <string name="createRemind">create remind</string>
+    <string name="etRemind">What wanna be remind?</string>
+    <string name="time_text">10:30 AM</string>
+    <string name="date_text">08.04.22</string>
+</resources>
